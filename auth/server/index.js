@@ -10,7 +10,7 @@ const cors = require('cors');
 
 // DB Setup
 // mongoose.connect('mongodb://localhost/auth');
-mongoose.connect('mongodb://admin:bossme6@ds133202.mlab.com:33202/testing')
+mongoose.connect('mongodb://admin:aaaaaaa@ds133202.mlab.com:33202/testing')
 
 
 // App Setup
